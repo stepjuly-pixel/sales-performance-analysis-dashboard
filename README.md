@@ -100,7 +100,7 @@ The dashboard includes:
 ## Project Structure
 
 ```
-sales-performance-dashboard/
+sales-performance-analysis-dashboard/
 ├── sql/
 │   └── sales_aggregation_query.sql
 ├── docs/
